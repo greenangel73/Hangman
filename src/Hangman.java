@@ -8,7 +8,6 @@ public class Hangman {
 	public static String answer;
 	
 	
-	
 	public static void main(String args[]) {
 			
 		System.out.println(" Welcome to the Hangman game!\n Guess the word I am thinking of: "
